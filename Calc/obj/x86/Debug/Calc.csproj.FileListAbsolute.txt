@@ -1,0 +1,6 @@
+/home/charalabos/Projects/Calc/Calc/bin/Debug/Calc.exe
+/home/charalabos/Projects/Calc/Calc/bin/Debug/Calc.pdb
+/home/charalabos/Projects/Calc/Calc/obj/x86/Debug/Calc.csprojAssemblyReference.cache
+/home/charalabos/Projects/Calc/Calc/obj/x86/Debug/Calc.csproj.CoreCompileInputs.cache
+/home/charalabos/Projects/Calc/Calc/obj/x86/Debug/Calc.exe
+/home/charalabos/Projects/Calc/Calc/obj/x86/Debug/Calc.pdb
